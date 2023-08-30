@@ -27,7 +27,7 @@ r_header = {
     'X-USER-TOKEN' : TOKEN
 }
 
-r_body = {             #request_body
+r_body = {        #request_body
     "date":f"{DATE}",
     "quantity": f"{QTY}",
 }
