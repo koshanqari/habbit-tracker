@@ -19,4 +19,4 @@ ENTER date (in YYYYMMDD format) and then enter the quantity of the day.
 These small squares get updated according to time zone UTC +5:30 i.e Asia/Kolkata
 If you're form any other country, you need to change the underlying codes
 Created using APi : https://pixe.la/
-DEVELOPER'S CONTACT = koshanqari@hotmail.com
+DEVELOPER'S CONTACT = koshanqari@gmail.com
